@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Flask inside hello helloDocker!! yes we are praticing merge"
+    return "Flask inside hello helloDocker!! yes we are praticing merge 2"
 
 
 if __name__ == "__main__":
